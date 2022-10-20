@@ -1,0 +1,17 @@
+.botão{
+    background-color: #6278F7;
+    color: white;
+    padding: 28px;
+    font-weight: 700;
+    cursor: pointer; /* serve para deixar com o icode de click quando parsar o mouse por cima*/
+    margin: 40px 0 0 0;
+    border: none;
+    border-radius: 10px;
+    mix-blend-mode: normal;
+  
+
+}
+
+.botão:hover{
+    color: #95FFD4;
+}

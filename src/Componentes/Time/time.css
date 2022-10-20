@@ -1,0 +1,28 @@
+.time{
+    padding: 32px;
+    text-align: center;
+    
+ 
+
+    
+    
+    
+}
+
+.time h3 {
+    size: 32px;
+    
+    border-bottom: 1px solid ;
+    
+    display: inline-block;
+    
+
+
+}
+
+.time .flexContainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 32px;
+}
